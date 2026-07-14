@@ -85,8 +85,11 @@ AI platform for large PDF uploads with async pipelines and LLM classification â€
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulkumar345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkumar345&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumar345&theme=tokyonight" alt="GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulkumar345&theme=tokyonight&utcOffset=5.5" alt="Commit time"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumar345&theme=tokyonight" alt="Top languages by repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumar345&theme=tokyonight" alt="Top languages by commit"/>
 
 <img src="https://streak-stats.demolab.com?user=rahulkumar345&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 

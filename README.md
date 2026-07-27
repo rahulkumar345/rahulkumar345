@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Rahul%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=I%20build%20systems%20that%20scale%20%E2%80%94%20and%20AI%20that%20ships&descSize=18&descAlignY=75" alt="banner" /></picture>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Rahul%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Building%20Scalable%20Products%20%26%20Distributed%20Systems%20%7C%20DSA%2C%20System%20Design%2C%20Microservices%20%7C%20React%2C%20Python%2C%20Node.js&descSize=16&descAlignY=78" alt="banner" /></picture>
 
 <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Software+Engineer+%40+SureBright+(Y+Combinator+S24)+%F0%9F%9A%80;Data+Structures+%26+Algorithms+%7C+System+Design+%7C+Distributed+Systems;Event-Driven+Systems+%7C+AI+Pipelines+%7C+1M%2B+Products;Node.js+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+Microservices;I+turn+ambiguous+problems+into+shipped+products" alt="typing intro" /></picture>
 
 <p>
 <a href="https://www.linkedin.com/in/rahul-kumar-a025a6192/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rahulkumarjaiswal670@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulkumarjaiswal670@gmail.com&su=Opportunity%20for%20Rahul%20Kumar"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <picture><img src="https://komarev.com/ghpvc/?username=rahulkumar345&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/></picture>
 </p>
 

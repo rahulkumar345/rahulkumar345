@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Rahul%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=I%20build%20systems%20that%20scale%20%E2%80%94%20and%20AI%20that%20ships&descSize=18&descAlignY=75" alt="banner" />
 
-<a href="https://github.com/rahulkumar345"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+SureBright+(YC+S24)+%F0%9F%9A%80;Event-Driven+Systems+%7C+AI+Pipelines+%7C+1M%2B+Products;Node.js+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+LLMs;I+turn+ambiguous+problems+into+shipped+products" alt="typing intro" /></a>
+<a href="https://github.com/rahulkumar345"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+SureBright+(YC+S24)+%F0%9F%9A%80;DSA+%7C+System+Design+(HLD%2FLLD)+%7C+Distributed+Systems;Event-Driven+Systems+%7C+AI+Pipelines+%7C+1M%2B+Products;Node.js+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+Microservices;I+turn+ambiguous+problems+into+shipped+products" alt="typing intro" /></a>
 
 <p>
 <a href="https://www.linkedin.com/in/rahul-kumar-a025a6192/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -28,8 +28,9 @@
 
 - 🔭 **Software Engineer @ [SureBright (YC S24)](https://www.surebright.com)** — building event-driven AI systems, HITL orchestration platforms, and distributed backends on AWS
 - ⚙️ Previously **@ LegalPay** — owned frontend architecture (page loads **↓ 40%**, organic traffic **↑ 25%**), built FastAPI/Node.js financial APIs, and led **ZAVO**, a React Native loan-repayment app (transactions **↑ 30%**)
-- 🌱 Deep in **Distributed Systems, System Design (HLD/LLD), LLMs, RAG, LangChain & MCP**
-- 💬 Ask me about **Node.js, Python (FastAPI), Next.js, TypeScript, AWS, Redis, Kafka, Microservices**
+- 🧠 Strong in **Problem Solving, DSA, System Design (HLD/LLD), SOLID Principles, Design Patterns, Distributed Systems, Microservices & Multithreading/Concurrency**
+- 🌱 Deep in **LLMs, RAG, LangChain & MCP** — shipping AI features to production
+- 💬 Ask me about **Node.js, Python (FastAPI), Next.js, TypeScript, AWS, Redis, Kafka, System Design**
 - 📫 Reach me: **rahulkumarjaiswal670@gmail.com** · 📱 +91 6202190971
 
 ## 🚀 Featured Projects
@@ -59,6 +60,10 @@ AI platform for large PDF uploads with async pipelines and LLM classification �
 
 <div align="center">
 
+**Core CS & System Design**
+
+<img src="https://img.shields.io/badge/Problem_Solving-0e75b6?style=for-the-badge"/> <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-6f42c1?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-HLD_·_LLD-0e75b6?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOLID_Principles-6f42c1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Design_Patterns-0e75b6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Distributed_Systems-6f42c1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Microservices-0e75b6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Multithreading_%26_Concurrency-6f42c1?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOPs-0e75b6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating_Systems-6f42c1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer_Networks-0e75b6?style=for-the-badge"/> <img src="https://img.shields.io/badge/DBMS-6f42c1?style=for-the-badge"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 **Frontend**
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -85,11 +90,8 @@ AI platform for large PDF uploads with async pipelines and LLM classification �
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumar345&theme=tokyonight" alt="GitHub stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulkumar345&theme=tokyonight&utcOffset=5.5" alt="Commit time"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumar345&theme=tokyonight" alt="Top languages by repo"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumar345&theme=tokyonight" alt="Top languages by commit"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulkumar345&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rahulkumar345&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=rahulkumar345&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
